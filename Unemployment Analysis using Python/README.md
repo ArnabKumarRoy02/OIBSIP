@@ -9,7 +9,7 @@ The dataset used in this project is the [Unemployment in India](https://www.kagg
 ## Files
 
  - [unemployment_analysis.ipynb](unemployment_analysis.ipynb): This Jupyter Notebook contains the code and the detailed explanation of the project. It covers data exploration, preprocessing, model building, and evaluation.
- - [unemployment.csv](Unemployment in India.csv): This is the dataset used in the project.
+ - [Unemployment in India.csv](Unemployment in India.csv): This is the dataset used in the project.
 
 ## Dependencies
 
